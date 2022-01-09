@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @todbapi
+- 👀 I’m interested in Typescript JavaScript PHP
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on My Project
+- 📫 Reach me on facebook
