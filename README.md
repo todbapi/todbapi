@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @todbapi
+- 👋 Hi, I’m Bapi
 - 👀 I’m interested in Typescript JavaScript PHP
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on My Project
