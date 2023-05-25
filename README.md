@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bapi
-- 👀 I’m interested in Typescript JavaScript PHP
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in Typescript JavaScript
+- 🌱 I’m currently learning Electron
 - 💞️ I’m looking to collaborate on My Project
 - 📫 Reach me on facebook
